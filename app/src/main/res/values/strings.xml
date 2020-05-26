@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RemoteConfig</string>
+    <string name="login_user">Usuario</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_forgot">Olvidé mi contraseña</string>
+    <string name="home">Este es el home principal…</string>
+    <string name="home_alt">… y este es un home alternativo</string>
+</resources>

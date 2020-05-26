@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>button_text</key>
+        <value>Entrar</value>
+    </entry>
+    <entry>
+        <key>layout_id</key>
+        <value>login_layout</value>
+    </entry>
+    <entry>
+        <key>navigation_id</key>
+        <value>http://remote-config.com/homeAltFragment</value>
+    </entry>
+</defaultsMap>
